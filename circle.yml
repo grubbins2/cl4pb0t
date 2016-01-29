@@ -1,0 +1,4 @@
+machine:
+  timezone: "America/Phoenix"
+  node:
+    version: 0.12.0

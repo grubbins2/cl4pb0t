@@ -1,0 +1,42 @@
+{
+  "name": "cl4pb0t",
+  "version": "0.1.0",
+  "license": "GPL-3.0",
+  "private": false,
+  "author": "grubbins2 <grubbins2@gmail.com>",
+  "description": "twitch loyalty bot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grubbins2/cl4pb0t.git"
+  },
+  "scripts": {
+    "start": "./bin/hubot -a twitch-adapter",
+    "test": "mocha --compilers coffee:coffee-script/register test"
+  },
+  "dependencies": {
+    "flip": "^0.1.1",
+    "hubot": "^2.17.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google-images": "^0.2.6",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "^0.1.2",
+    "hubot-karma-classic": "^1.0.2",
+    "hubot-maps": "0.0.2",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.16.1",
+    "hubot-shipit": "^0.2.0",
+    "hubot-twitch-adapter": "^0.1.1",
+    "hubot-youtube": "^1.0.0",
+    "lodash": "^3.10.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-things": "^0.2.0",
+    "hubot-test-helper": "^1.3.0"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  }
+}

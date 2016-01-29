@@ -1,0 +1,10 @@
+[
+  "hubot-diagnostics",
+  "hubot-google-translate",
+  "hubot-pugme",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-youtube",
+  "hubot-karma-classic"
+]

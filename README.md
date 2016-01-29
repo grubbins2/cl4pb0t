@@ -192,4 +192,4 @@ you're having issues.
 
 ## Legal
 
-cl4pb0t is licensed under the [GPL-3.0 license](./LICENSE.txt). Copyright 2015 grubbins2@gmail.com.
+cl4pb0t is licensed under the [GPL-3.0 license](./LICENSE). Copyright 2015-2016 grubbins2@gmail.com.
